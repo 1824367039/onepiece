@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="c++_test.cpp" />
+    <ClCompile Include="vector_rq.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="string_rq.h" />
+    <ClInclude Include="vector_rq.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
