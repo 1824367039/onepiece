@@ -21,6 +21,9 @@
     <ClCompile Include="vector_rq.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vector_01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string_rq.h">
