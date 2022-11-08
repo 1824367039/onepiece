@@ -26,5 +26,10 @@ void test02();
 void test03();
 void input_01();
 void input_02();
+void input_03();
+void input_04();
+void input_05();
+void input_06();
+void input_07();
 
 

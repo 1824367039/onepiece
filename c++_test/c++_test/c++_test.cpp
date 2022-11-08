@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    input_01();
+    input_03();
     
     
 }       
