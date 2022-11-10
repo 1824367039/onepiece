@@ -3,13 +3,14 @@
 #include <iostream>
 #include "string_rq.h"
 #include "vector_rq.h"
+#include "deque_rq.h"
 using namespace std;
 
 
 
 int main()
 {
-    input_03();
+    dq_01();
     
     
 }       

@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="c++_test.cpp" />
+    <ClCompile Include="deque_01.cpp" />
     <ClCompile Include="vector_01.cpp" />
     <ClCompile Include="vector_rq.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="deque_rq.h" />
     <ClInclude Include="string_rq.h" />
     <ClInclude Include="vector_rq.h" />
   </ItemGroup>

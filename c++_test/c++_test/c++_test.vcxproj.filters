@@ -24,12 +24,18 @@
     <ClCompile Include="vector_01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="deque_01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string_rq.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="vector_rq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="deque_rq.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
